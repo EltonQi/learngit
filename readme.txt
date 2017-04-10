@@ -4,3 +4,4 @@ add hello
 hello
 hellso
 Git has mutable index called stage.
+readme.txt
